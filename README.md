@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Sunny Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnypranay)](https://github.com/anuraghazra/github-readme-stats)
+[![Sunny Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnypranay&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypranay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
